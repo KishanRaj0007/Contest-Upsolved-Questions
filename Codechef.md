@@ -2,6 +2,7 @@
 
 1. ### Find sum of all numbers whose largest factor/divisor is k
    https://www.codechef.com/START139D/problems/COUNTN
+
    Soultion :
    
    find all prime number upto 10^6 using sieve.
