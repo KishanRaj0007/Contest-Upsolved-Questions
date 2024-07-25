@@ -12,7 +12,7 @@
    i. if the number is prime then ans is n*(sum of all prime no upto n).
    ii. if non-prime then ans is n*(sum of all prime no upto smallest prime factor of n).
 ---
-2. Maximum length of subsequence that is divisible by number of distinct elements in that subsequence
+2. ### Maximum length of subsequence that is divisible by number of distinct elements in that subsequence
    https://www.codechef.com/problems/LARGESTK?tab=statement
 
    Solution:
