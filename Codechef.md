@@ -12,4 +12,11 @@
    i. if the number is prime then ans is n*(sum of all prime no upto n).
    ii. if non-prime then ans is n*(sum of all prime no upto smallest prime factor of n).
 ---
+2. Maximum length of subsequence that is divisible by number of distinct elements in that subsequence
+   https://www.codechef.com/problems/LARGESTK?tab=statement
+
+   Solution:
+   int length = (curr/d)*d;
+   Note : (4/3)*3 is not 4 but 3. This code can be used to traverse all possibilities of maximum length that is divisible by freq of dist elements.
+---
 
