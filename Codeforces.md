@@ -1,1 +1,9 @@
-
+https://codeforces.com/contest/1797/problem/B
+https://codeforces.com/contest/1997/problem/B
+https://codeforces.com/contest/1818/problem/B
+https://codeforces.com/contest/1823/problem/B
+https://codeforces.com/contest/1821/problem/B
+https://codeforces.com/contest/1816/problem/B
+https://codeforces.com/contest/1825/problem/B
+https://codeforces.com/contest/1832/problem/B
+https://codeforces.com/contest/1838/problem/B
